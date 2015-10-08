@@ -1,5 +1,3 @@
-# is_project
-IS
-==
+# IS
 
 Materiale per Ingegneria del Software
